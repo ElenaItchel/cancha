@@ -1,0 +1,33 @@
+.cancha{
+	background-color: green;
+	width:1300px;
+	height:750px;
+}
+.margen{
+	border: 3px solid white;
+	position: absolute;
+	width: 1200px;
+	height: 650px;
+	top:50px;
+	right: 50px;
+	left: 50px;
+	bottom:50px;
+	z-index: 1;
+}
+.porteria{
+	border:1px solid white;
+	position: relative;
+	width: 150px;
+	height: 300px;
+	top: 170px;
+	z-index: 1;
+}
+.porteria1{
+	border:1px solid white;
+	position: relative;
+	width: 150px;
+	height: 300px;
+	bottom:140px;
+	z-index: 1;
+	left: 1050px;
+}
